@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on Github
 
-- 💬 Ask me about **Vue, Python, Java**
+- 💬 Ask me about **Arduino, Vue, Python & Java**
 
 - 📫 How to reach me **m.umairrr@outlook.com**
 
