@@ -22,7 +22,7 @@
 
 📈 my github stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairdadaa&show_icons=true&locale=en&layout=compact" alt="umairdadaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairdadaa&show_icons=true&locale=en&layout=compact" alt="umairdadaa" /></p>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=umairdadaa&show_icons=true&theme=gotham" alt="umairdadaa" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=umairdadaa&show_icons=true&theme=gotham" alt="umairdadaa" />
