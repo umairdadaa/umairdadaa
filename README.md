@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Arduino, Vue, Python & Java**
 
-- 📫 How to reach me **m.umairrr@outlook.com**
+- 📫 How to reach me **m.umairrr@outlgook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +22,8 @@
 
 📈 my github stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairdadaa&show_icons=true&locale=en&layout=compact" alt="umairdadaa" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairdadaa&show_icons=true&locale=en&layout=compact" alt="umairdadaa" /></p>
 
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=umairdadaa&show_icons=true&theme=gotham" alt="umairdadaa" />
+<!-- <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=umairdadaa&show_icons=true&theme=gotham" alt="umairdadaa" hhyhhh
+ -->
