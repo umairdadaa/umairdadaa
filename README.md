@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Arduino, Vue, Python, Java and Node/Express**
 
-- 📫 How to reach me **m.umairrr@outlgook.com**
+- 📫 How to reach me **m.umairrr@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
